@@ -11,11 +11,11 @@
   <version>0.0.6-SNAPSHOT</version>
   <packaging>lutece-plugin</packaging>
   <name>Lutece Leaflet module for bien VU</name>
-  <url>https://github.com/plainecommune/espacepublic-module-dansmarue-leaflet</url>
+  <url>https://github.com/DSIM-PRAP/espacepublic-module-dansmarue-leaflet</url>
   <scm>
-    <connection>scm:git:https://github.com/plainecommune/espacepublic-module-dansmarue-leaflet.git</connection>
-    <developerConnection>scm:git:https://github.com/plainecommune/espacepublic-module-dansmarue-leaflet.git</developerConnection>
-    <url>https://github.com/plainecommune/espacepublic-module-dansmarue-leaflet</url>
+    <connection>scm:git:https://github.com/DSIM-PRAP/espacepublic-module-dansmarue-leaflet.git</connection>
+    <developerConnection>scm:https://github.com/DSIM-PRAP/espacepublic-module-dansmarue-leaflet.git</developerConnection>
+    <url>https://github.com/DSIM-PRAP/espacepublic-module-dansmarue-leaflet</url>
     <tag>HEAD</tag>
   </scm>
   <properties>

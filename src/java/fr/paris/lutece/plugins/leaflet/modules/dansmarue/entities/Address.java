@@ -33,7 +33,7 @@
  */
 package fr.paris.lutece.plugins.leaflet.modules.dansmarue.entities;
 
-import org.codehaus.jackson.annotate.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

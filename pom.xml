@@ -8,7 +8,7 @@
   </parent>
   <groupId>fr.paris.lutece.plugins</groupId>
   <artifactId>module-leaflet-bienvu</artifactId>
-  <version>0.0.7-SNAPSHOT</version>
+  <version>2.0.0-SNAPSHOT</version>
   <packaging>lutece-plugin</packaging>
   <name>Lutece Leaflet module for bien VU</name>
   <url>https://github.com/DSIM-PRAP/espacepublic-module-dansmarue-leaflet</url>
